@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>Student | Web Developer</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Yahan apna short intro likho.</p>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li>Project 1 – Short description</li>
+      <li>Project 2 – Short description</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© <span id="year"></span> Your Name</p>
+    <script src="script.js"></script>
+  </footer>
+</body>
+</html>
